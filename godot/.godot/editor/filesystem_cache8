@@ -1,0 +1,26 @@
+2a60927148abd1d33b818b535e306557
+::res://::1686778789
+DodgeTheCreeps.gdextension::GDExtension::-1::1686777049::0::1::::<><>::
+Hud.tscn::PackedScene::4947129736321201862::1686777049::0::1::::<><>::uid://cit6gwe5px1q8
+icon.png::CompressedTexture2D::82180729453158470::1686777049::1686777215::1::::<><>::
+Main.tscn::PackedScene::6469066510429512572::1686778612::0::1::::<><>::uid://4vwrqjegqwpj<>uid://ccqoreueuxdb7<>uid://c3pfhw58jsoyd<>uid://b7rp2p2iqkxbk
+Mob.tscn::PackedScene::1214059878346897035::1686777049::0::1::::<><>::uid://yqglrrsx7j1f<>uid://bpot8awhdn6ph<>uid://bu4221t7qpa7d<>uid://booij5t7h4efb<>uid://5lvm88ij4jqn<>uid://bng45cvsgufqc
+Player.tscn::PackedScene::2080195385142696447::1686777049::0::1::::<><>::uid://ftkxr8r4qghp<>uid://couyhcegeihme<>uid://b4yyoafu8bi0q<>uid://bko65a0nd66st
+README.md::TextFile::-1::1686777049::0::1::::<><>::
+::res://art/::1686777215
+enemyFlyingAlt_1.png::CompressedTexture2D::4071127070423688719::1686777049::1686777215::1::::<><>::
+enemyFlyingAlt_2.png::CompressedTexture2D::3890352533777516400::1686777049::1686777215::1::::<><>::
+enemySwimming_1.png::CompressedTexture2D::7621182331503147359::1686777049::1686777215::1::::<><>::
+enemySwimming_2.png::CompressedTexture2D::5283073775536913025::1686777049::1686777215::1::::<><>::
+enemyWalking_1.png::CompressedTexture2D::3501798593679379985::1686777049::1686777215::1::::<><>::
+enemyWalking_2.png::CompressedTexture2D::5458209118193760969::1686777049::1686777215::1::::<><>::
+gameover.wav::AudioStreamWAV::4668517903201338520::1686777049::1686777215::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::6769411944453128235::1686777049::1686777215::1::::<><>::
+playerGrey_up1.png::CompressedTexture2D::2200865246714375922::1686777049::1686777215::1::::<><>::
+playerGrey_up2.png::CompressedTexture2D::1921138243977568944::1686777049::1686777215::1::::<><>::
+playerGrey_walk1.png::CompressedTexture2D::1323676928819726024::1686777049::1686777215::1::::<><>::
+playerGrey_walk2.png::CompressedTexture2D::1869738871024834253::1686777049::1686777215::1::::<><>::
+::res://fonts/::1686777215
+FONTLOG.txt::TextFile::-1::1686777049::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1686777049::0::1::::<><>::
+Xolonium-Regular.ttf::FontFile::9114868050446163526::1686777049::1686777215::1::::<><>::
